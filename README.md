@@ -9,15 +9,14 @@ API Integration: Sends data to the Renderform API to generate custom images give
 Prerequisites
 Make sure you have the following installed:
 
-Python 3.10
+1)Python 3.10
 
-pip: The package installer for Python.
+2)pip: The package installer for Python.
 
-Conda (Optional): To manage Python environments (you can use virtualenv or other virtual environment managers).
 
-Renderform API Key: You will need a valid API key from Renderform.
+3)Renderform API Key: You will need a valid API key from Renderform.
 
-Insert your api key in the views.py file where api_key = 'YOUR_API_KEY'
+4)Insert your api key in the views.py file where api_key = 'YOUR_API_KEY'
 
 Installation Steps
 
