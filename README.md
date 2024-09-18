@@ -10,9 +10,13 @@ Prerequisites
 Make sure you have the following installed:
 
 Python 3.10
+
 pip: The package installer for Python.
+
 Conda (Optional): To manage Python environments (you can use virtualenv or other virtual environment managers).
+
 Renderform API Key: You will need a valid API key from Renderform.
+
 Insert your api key in the views.py file where api_key = 'YOUR_API_KEY'
 
 Installation Steps
@@ -32,4 +36,3 @@ python manage.py migrate
 4)Run the Development Server
 
 python manage.py runserver
-
