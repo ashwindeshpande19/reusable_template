@@ -24,10 +24,10 @@ Installation Steps
 
 2)Go in the folder where the repository is cloned
 
-2)Install Dependencies
+3)Install Dependencies
 
 pip install -r requirements.txt
 
-3)Run the Development Server
+4)Run the Development Server
 
 python manage.py runserver
