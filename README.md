@@ -28,10 +28,6 @@ Installation Steps
 
 pip install -r requirements.txt
 
-3)Apply Migrations
-
-python manage.py migrate
-
-4)Run the Development Server
+3)Run the Development Server
 
 python manage.py runserver
