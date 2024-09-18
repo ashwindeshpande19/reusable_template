@@ -1,3 +1,8 @@
+"""
+apps.py:
+Contains the configuration for an application within the Django project.
+"""
+
 from django.apps import AppConfig
 
 

@@ -1,3 +1,10 @@
+"""
+views.py:
+Contains the logic for handling requests and returning responses 
+(like rendering templates or returning data).
+"""
+
+from django.shortcuts import render
 
 import requests
 from django.shortcuts import render
