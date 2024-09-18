@@ -57,7 +57,7 @@ def form_view(request):
         api_url = 'https://get.renderform.io/api/v2/render'
 
         # Retrieve the API key from settings (you should store your API key in Django settings for security)
-        api_key = 'API_KEY'
+        api_key = 'YOUR_API_KEY'
         
         # Set up headers with the API key
         headers = {
